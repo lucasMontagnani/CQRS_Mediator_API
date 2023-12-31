@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/pSGXdduyHw+HC5KxSNWhrWpgXBCot8cHPw169Xi/SP2Ps+b2WHhoA8fLwFFDi/ggIC0wpirjtYO7kPEGuBBww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\source\\repos\\CQRS_Mediator_API\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
